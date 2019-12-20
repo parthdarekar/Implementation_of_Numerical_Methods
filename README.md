@@ -5,3 +5,6 @@ The algorithms implemented so far are
 
 Program 1: Bisection Method.
 Program 2: Secant Method.
+Program 3: Regula Falsi Method
+Program 4: Newton Raphson Method
+
