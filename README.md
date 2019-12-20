@@ -4,3 +4,4 @@ This projects comprises the C++ implementation of algorithms for numerical compu
 The algorithms implemented so far are
 
 Program 1: Bisection Method.
+Program 2: Secant Method.
