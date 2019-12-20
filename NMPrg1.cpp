@@ -3,7 +3,7 @@
 #include<process.h>
 #include<cmath>
 using namespace std;
-float fun(float a)
+float fun(float a)   //Current Function being implemented is x^2 - 4, can be changed accordingly.
 {
   float value;
   value=a*a-4;
