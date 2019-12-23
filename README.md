@@ -13,3 +13,5 @@ Program 4: Newton Raphson Method
 
 Program 5: Lagrange's Interpolation
 
+Program 6: Trapezoidal Rule for Integration
+
