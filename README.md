@@ -11,3 +11,5 @@ Program 3: Regula Falsi Method
 
 Program 4: Newton Raphson Method
 
+Program 5: Lagrange's Interpolation
+
